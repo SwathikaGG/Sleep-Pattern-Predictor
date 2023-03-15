@@ -5,6 +5,5 @@ This project comprises of a model which is used to predict whether a person has 
 It is intended as a self assessment on one's sleep pattern .
 
 <li>Script : Python
-<li>Model  : Random Forest 
-
+<li>Model  : Random Forest
 
